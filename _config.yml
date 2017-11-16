@@ -4,10 +4,10 @@
 baseurl:
 url: https://toazure.github.io/
 date_format: "ordinal"
-title: 网站的标题
-subtitle: 副标题
-description: 
-keywords: 关键词（不重要）
+title: "Azure"
+subtitle: "Nothing is impossible!"
+description:Everything will be OK! 
+keywords: FIGHTING
 favicon: /favicon.ico
 timezone: Asia/Chengdu
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 你的名字
-organization: 你公司的名
-organization_url: 你公司的官网
-github_username: 你在GitHub上的用户名
+author: Zhao Wenyan
+organization: Neusoft University
+organization_url: http://www.nsu.edu.cn/
+github_username: ToAzure
 location: Chengdu, China
-email: 你的邮箱
+email: 477664216@qq.com
 
 # ---------------- #
 #    Navigation    #
