@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIGHTING"
-categories: "MOOD"
+categories: blog
 description: "Facing the sea with spring blossoms."
 keywords: "relax,nice."
 ---
@@ -17,4 +17,4 @@ keywords: "relax,nice."
 
 不能让未来的自己对现在的自己抱有遗憾。
 
-更改于：2017/11/17 9:26:28  
+更改于：2017/11/17 17:35:07  
