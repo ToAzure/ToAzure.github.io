@@ -1,10 +1,10 @@
-# ---------------- #
+﻿# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
 url: https://toazure.github.io/
 date_format: "ordinal"
-title: "Azure"
+title: Azure
 subtitle: "Nothing is impossible!"
 description: 
 keywords: Azure, Borke
