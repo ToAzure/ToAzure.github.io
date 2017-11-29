@@ -1,7 +1,7 @@
 - name: Software Engineer Keywords
   keywords:
       - Java
-      - MySQL
+      - SQL
       - Ajax
       - Hibernate
       - Spring/SpringMVC
@@ -11,11 +11,9 @@
       - Data Structure
       - Network Engineering
       - Software Test
-      - Html/CSS/JavaScript
-      - Hui-ui/Amaze-ui/layui/Bootstrap/Win10-ui
       
 - name: Language class
-      - 12.16 预备参考CET4
+      - 2018.3.21 预备参考计算机二级（数据库）
 
 - name: Mobile Developer Keywords
   keywords:
