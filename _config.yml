@@ -1,4 +1,4 @@
-ï»¿# ---------------- #
+# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
@@ -29,23 +29,23 @@ email: 477664216@qq.com
 navs:
   -
     href: /
-    label: é¦–é¡µ
+    label: Ê×Ò³
 
   -
     href: /categories/
-    label: åˆ†ç±»
+    label: ·ÖÀà
 
   -
     href: /wiki/
-    label: ç»´åŸº
+    label: Î¬»ù
 
   -
     href: /links/
-    label: é“¾æŽ¥
+    label: Á´½Ó
 
   -
     href: /about/
-    label: å…³äºŽ
+    label: ¹ØÓÚ
 
 # ---------------- #
 #       RSS        #
